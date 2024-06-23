@@ -43,7 +43,7 @@ client[db_name][collection_name].delete_many({})
 
 # insert
 client[db_name][collection_name].insert_many(records)
-query = "Does the encoder contain self-attention layers?"
+query = "What is about software engineering and agile methodlogy?"
 
 vector_query = model.encode(query).tolist()
 print("The vector query==", vector_query)
