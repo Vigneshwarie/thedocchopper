@@ -46,3 +46,5 @@ Start the application:
 ```
 python3 app.py
 ```
+## License
+ ![Github license](https://img.shields.io/badge/license-MIT-blue.svg) 
