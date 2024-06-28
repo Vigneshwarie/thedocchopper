@@ -18,6 +18,9 @@ Before you begin, ensure you have met the following requirements:
 - Python 3.8 or higher   
 - MongoDB  
 
+## Architecture
+![alt text](mydocuments/thedocchopper.png)
+
 ### Clone the Repository
 ```
 git clone https://github.com/vigneshwarie/thedocchopper.git
