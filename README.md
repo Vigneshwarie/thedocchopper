@@ -1,7 +1,7 @@
 # thedocchopper
 
 ## Description
-thedocchopper chunks the given document and stores them in the MongoDB Atlas database.
+thedocchopper chunks documents using Unstructured.io and stores them in the MongoDB vector database.
 
 ## Features
 **Document Chunking:** Utilizes unstructured.io to efficiently chunk documents into manageable pieces for better storage and retrieval.   
